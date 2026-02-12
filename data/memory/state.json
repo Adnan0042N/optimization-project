@@ -1,0 +1,2295 @@
+{
+  "tree": {
+    "topic": "Quantum Mechanics",
+    "type": "CONCEPT",
+    "children": [
+      {
+        "topic": "Classical Physics",
+        "type": "CONCEPT",
+        "children": [
+          {
+            "topic": "Basic understanding of mathematics (algebra, basic calculus)",
+            "type": "CONCEPT",
+            "children": [
+              {
+                "topic": "Numbers and basic arithmetic operations (addition, subtraction, multiplication, division)",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Understanding of what a number is",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Recognizing and counting objects",
+                        "type": "LEAF",
+                        "explanation": "It's when you look at things and know how many there are.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Understanding the concept of quantity",
+                        "type": "LEAF",
+                        "explanation": "Understanding the concept of quantity means knowing how much of something there is.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Recognizing symbols used to represent numbers",
+                        "type": "LEAF",
+                        "explanation": "It's about learning how different signs or pictures stand for numbers, like how a digit or a symbol shows a specific amount.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Counting skills (ability to count objects or numbers in sequence)",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding of numbers and their names 2. Recognizing individual objects as separate entities 3. The concept of one-to-one correspondence",
+                        "type": "LEAF",
+                        "explanation": "It's about knowing what numbers are and their names, seeing objects as separate things, and matching each object to one number.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Basic understanding of quantity and comparison (more than, less than)",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding of numbers and counting",
+                        "type": "LEAF",
+                        "explanation": "Knowing how numbers work and being able to count things easily.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Concept of size or amount",
+                        "type": "LEAF",
+                        "explanation": "The \"concept of size or amount\" is about how big, small, or how much something is.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic idea of equality (same as)",
+                        "type": "LEAF",
+                        "explanation": "The idea of equality means that two things are the same in how they look or work.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Understanding of variables and simple expressions",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Numbers and basic arithmetic operations",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Counting",
+                        "type": "LEAF",
+                        "explanation": "Counting is when you say or write numbers in order to find out how many things there are.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Recognition of symbols (like numerals)",
+                        "type": "LEAF",
+                        "explanation": "Recognizing symbols like numbers means knowing what they are and what they stand for.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Understanding of quantity",
+                        "type": "LEAF",
+                        "explanation": "Understanding of quantity means knowing how much of something there is.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "The concept of a value or quantity",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Number",
+                        "type": "LEAF",
+                        "explanation": "A number is a symbol or word that shows how many things there are.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Measurement",
+                        "type": "LEAF",
+                        "explanation": "Measurement is when you find out how big, long, or heavy something is.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Comparison",
+                        "type": "LEAF",
+                        "explanation": "Comparison is when you look at two things to see how they are the same or different.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "The idea of a symbol representing a value",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "The concept of a sign or mark",
+                        "type": "LEAF",
+                        "explanation": "A sign or mark is something that shows or tells you something, like a stop sign or a smiley face.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The idea that symbols can stand for something else",
+                        "type": "LEAF",
+                        "explanation": "It's when a picture or word is used to show or tell about something else.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The notion of representing or standing for a specific thing or idea",
+                        "type": "LEAF",
+                        "explanation": "It's when something, like a picture or word, shows or means a particular thing or idea.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Basic problem-solving skills",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Understanding of simple tasks and instructions",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Recognizing objects and actions",
+                        "type": "LEAF",
+                        "explanation": "Recognizing objects and actions means being able to see things or what people are doing and knowing what they are.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Following basic directions",
+                        "type": "LEAF",
+                        "explanation": "Doing what someone tells you to do step by step.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Understanding simple language or commands",
+                        "type": "LEAF",
+                        "explanation": "\"Understanding simple language or commands means being able to know what someone is saying or asking you to do in a clear and easy way.\"",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Basic critical thinking skills",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Ability to recognize and understand simple statements or claims 2. Basic comprehension of language and vocabulary 3. Understanding of the concept of truth and falsehood",
+                        "type": "LEAF",
+                        "explanation": "It's about being able to understand simple sentences, knowing what words mean, and telling if something is true or false.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Ability to identify problems",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding what a problem is",
+                        "type": "LEAF",
+                        "explanation": "Knowing what a problem is means figuring out what is not right or what needs to be fixed.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Recognizing situations that may require a solution",
+                        "type": "LEAF",
+                        "explanation": "It's when you notice that something isn't right or could be better, and you think about fixing it.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Developing basic observation skills",
+                        "type": "LEAF",
+                        "explanation": "Getting good at noticing small things around you helps you see what's happening and learn more about your world.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Concepts of motion and force",
+            "type": "CONCEPT",
+            "children": [
+              {
+                "topic": "Properties of objects (such as shape, size, and state)",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "What an object is",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Existence",
+                        "type": "LEAF",
+                        "explanation": "Existence means that something is real and is actually there.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Identity",
+                        "type": "LEAF",
+                        "explanation": "Your identity is who you are, like your name, what you like, and what makes you special.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Properties",
+                        "type": "LEAF",
+                        "explanation": "Properties are things that tell us what something is like, such as its color, size, or shape.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Different types of objects (e.g., solid, liquid, gas)",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Matter",
+                        "type": "LEAF",
+                        "explanation": "Matter is anything that takes up space and has weight.",
+                        "children": []
+                      },
+                      {
+                        "topic": "States of matter",
+                        "type": "LEAF",
+                        "explanation": "States of matter are the different forms that things like solids, liquids, and gases can take.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Properties of materials",
+                        "type": "LEAF",
+                        "explanation": "Properties of materials are the ways we can tell what a material is like, such as if it's hard, soft, heavy, or stretchy.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Basic vocabulary for describing objects (e.g., words like \"big,\" \"round,\" \"hard\")",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding what objects are",
+                        "type": "LEAF",
+                        "explanation": "Understanding what objects are means knowing that objects are things you can see and touch, like a toy or a ball.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Recognizing that objects can have different qualities or features",
+                        "type": "LEAF",
+                        "explanation": "It means knowing that things can look or feel different from each other.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Knowing that words can be used to describe qualities of objects",
+                        "type": "LEAF",
+                        "explanation": "Words help us tell what things are like or how they look, feel, or sound.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Basic understanding of movement and rest",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "The concept of physical activity",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Movement",
+                        "type": "LEAF",
+                        "explanation": "Movement is when something or someone changes their place or position.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Body parts and muscles",
+                        "type": "LEAF",
+                        "explanation": "Body parts are the different pieces that make up your body, like your head, arms, and legs, and muscles are the parts inside your body that help you move and do things.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Energy use",
+                        "type": "LEAF",
+                        "explanation": "Energy use is when we use power, like electricity or fuel, to do things like turn on lights or run cars.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "The difference between being active and being inactive",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "The meaning of \"active",
+                        "type": "LEAF",
+                        "explanation": "\"Active\" means moving or doing something instead of resting or staying still.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The meaning of \"inactive",
+                        "type": "LEAF",
+                        "explanation": "Inactive means not doing anything or not being busy.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The concept of behavior or actions",
+                        "type": "LEAF",
+                        "explanation": "Behavior or actions are what a person does, like playing, talking, or helping.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Basic body awareness",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Sensory perception",
+                        "type": "LEAF",
+                        "explanation": "Sensory perception is how our body uses our senses, like seeing, hearing, touching, tasting, and smelling, to understand what is around us.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The concept of the body as a distinct entity",
+                        "type": "LEAF",
+                        "explanation": "The idea that the body is its own separate thing, different from the mind or feelings.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic motor movements",
+                        "type": "LEAF",
+                        "explanation": "Basic motor movements are simple actions like walking, running, or grabbing something that your body does to move around or use your hands.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "The concept of a push or pull",
+                "type": "FACT",
+                "explanation": "Push or pull are ways to make something move or stop by using your hands or body.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Basic understanding of energy and work",
+            "type": "CONCEPT",
+            "children": [
+              {
+                "topic": "Objects can move or stay still",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "An object is something that exists in the world",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Something exists",
+                        "type": "LEAF",
+                        "explanation": "\"Something exists\" means there is actually something real out there, not just in your imagination.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Things can be identified or distinguished",
+                        "type": "LEAF",
+                        "explanation": "Things can be told apart or recognized because they look different or have different features.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The world contains different things",
+                        "type": "LEAF",
+                        "explanation": "The world has many different things like animals, plants, and objects.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Things can change their position or stay in the same place",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "An object exists in a space",
+                        "type": "LEAF",
+                        "explanation": "When we say \"An object exists in a space,\" it means the object is somewhere inside that area or place.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Objects can move or stay still",
+                        "type": "LEAF",
+                        "children": [],
+                        "reason": "cycle"
+                      },
+                      {
+                        "topic": "The position of an object can change over time",
+                        "type": "LEAF",
+                        "explanation": "When an object moves from one place to another as time passes, its position changes.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Movement is when an object changes its position over time",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "An object is a thing that has a specific shape and size",
+                        "type": "LEAF",
+                        "explanation": "An object is something that has a certain look and takes up space.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Position is where an object is located in space",
+                        "type": "LEAF",
+                        "explanation": "Position is where something is sitting or standing in a place.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Time is the ongoing sequence of events from the past to the future",
+                        "type": "LEAF",
+                        "explanation": "Time is like a line that moves forward, showing everything that has already happened and what will happen next.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Force can change the motion of objects",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "An object can be at rest or moving",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "An object is something that has mass and occupies space",
+                        "type": "LEAF",
+                        "explanation": "An object is anything that has weight and takes up room.",
+                        "children": []
+                      },
+                      {
+                        "topic": "An object can change its position relative to a reference point",
+                        "type": "LEAF",
+                        "explanation": "When something moves so it’s not in the same spot as before compared to a fixed point.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Motion is when an object changes its position over time",
+                        "type": "LEAF",
+                        "explanation": "Motion happens when something moves from one place to another over time.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "An object can change its motion (speed or direction)",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "An object is something that has a position in space.",
+                        "type": "LEAF",
+                        "explanation": "An object is something that is somewhere in a place you can see or touch.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Motion means an object changing its position over time.",
+                        "type": "LEAF",
+                        "explanation": "Motion is when something moves from one place to another over time.",
+                        "children": []
+                      },
+                      {
+                        "topic": "An object can be at rest or moving at a certain speed and in a certain direction.",
+                        "type": "LEAF",
+                        "explanation": "An object can stay still or move in a certain way, either fast or slow, and in a certain direction.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "A force is a push or pull acting on an object",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "An object is something that can move or stay still.",
+                        "type": "LEAF",
+                        "explanation": "An object is anything that can either stay still or move around.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Push and pull are ways to change how an object moves.",
+                        "type": "LEAF",
+                        "explanation": "Push and pull are ways to make something start, stop, or change how it moves.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Movement is when an object changes position.",
+                        "type": "LEAF",
+                        "explanation": "When something moves, it goes from one place to another.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Energy is a way to describe the ability to do work",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Work is a way to transfer energy to or from an object.",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Energy is a property that objects can have.",
+                        "type": "LEAF",
+                        "explanation": "Energy is what makes things happen or move.",
+                        "children": []
+                      },
+                      {
+                        "topic": "An object can do or receive work.",
+                        "type": "LEAF",
+                        "explanation": "An object can make something move or be moved by pushing, pulling, or lifting.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Force is a push or pull that can change an object's motion.",
+                        "type": "LEAF",
+                        "explanation": "Force is when you push or pull something to make it move or stop.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Force is a push or pull that can cause an object to move or change shape.",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "An object is anything that has mass and takes up space.",
+                        "type": "LEAF",
+                        "explanation": "An object is something you can see or touch that has weight and takes up room.",
+                        "children": []
+                      },
+                      {
+                        "topic": "An object can move from one place to another.",
+                        "type": "LEAF",
+                        "explanation": "An object can change its position from one spot to a different spot.",
+                        "children": []
+                      },
+                      {
+                        "topic": "An object can change shape.",
+                        "type": "LEAF",
+                        "explanation": "When something can change shape, it means it can look different or become a new shape.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Motion is the change in position of an object over time.",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "An object has a position in space.",
+                        "type": "LEAF",
+                        "explanation": "It means that an object is somewhere in a place you can point to or see.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Time is a measurable concept.",
+                        "type": "LEAF",
+                        "explanation": "Time is when we can tell how long things take or when something happens.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Change means something becomes different.",
+                        "type": "LEAF",
+                        "explanation": "Change means that something is no longer the same as it was before.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Waves and Oscillations",
+        "type": "CONCEPT",
+        "children": [
+          {
+            "topic": "Vibration and Simple Harmonic Motion",
+            "type": "CONCEPT",
+            "children": [
+              {
+                "topic": "Oscillations and periodic motion",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Basic concepts of motion and force",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding of what matter is",
+                        "type": "LEAF",
+                        "explanation": "Matter is anything around us that takes up space and has weight.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Concept of position and how objects can be located in space",
+                        "type": "LEAF",
+                        "explanation": "The concept of position is where something is, and objects can be found in space by saying where they are, like \"next to the tree\" or \"on the table.\"",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic idea that objects can move from one place to another",
+                        "type": "LEAF",
+                        "explanation": "It's the idea that things can go from one spot to a different spot.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Simple harmonic motion (SHM)",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Oscillation",
+                        "type": "LEAF",
+                        "explanation": "Oscillation is when something moves back and forth or up and down repeatedly, like a swing.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Restoring force",
+                        "type": "LEAF",
+                        "explanation": "A restoring force is what pushes or pulls something back to its original position when it moves away.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Period and frequency",
+                        "type": "LEAF",
+                        "explanation": "Period is how long it takes for something to happen again, and frequency is how many times it happens in a certain amount of time.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Energy conservation and transfer",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Energy",
+                        "type": "LEAF",
+                        "explanation": "Energy is what makes things happen or move.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Forms of energy (such as kinetic and potential energy)",
+                        "type": "LEAF",
+                        "explanation": "Energy is what makes things move or stay still, like when a ball is moving or sitting on top of a hill.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic principles of motion and forces",
+                        "type": "LEAF",
+                        "explanation": "Things move because something pushes or pulls them, and how they move depends on how much push or pull there is.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Force and acceleration",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Motion and movement",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Position",
+                        "type": "LEAF",
+                        "explanation": "Your position is where you are standing or sitting right now.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Change",
+                        "type": "LEAF",
+                        "explanation": "Change is when something becomes different from how it was before.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Force",
+                        "type": "LEAF",
+                        "explanation": "Force is a push or pull that makes something move or stop.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Basic understanding of speed and velocity",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Concept of position 2. Understanding of time 3. Basic idea of movement",
+                        "type": "LEAF",
+                        "explanation": "It's about knowing where things are, when things happen, and how they change or move.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Concepts of cause and effect",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Relationship between events and outcomes",
+                        "type": "LEAF",
+                        "explanation": "When something happens, it can cause something else to happen, like a chain of events leading to an outcome.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic understanding of sequences and timing",
+                        "type": "LEAF",
+                        "explanation": "It means knowing how things happen one after another and how long they take.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The idea that some events happen because of other events",
+                        "type": "LEAF",
+                        "explanation": "It's when one thing causes or makes another thing happen.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Hooke's Law",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Force",
+                    "type": "LEAF",
+                    "children": [],
+                    "reason": "cycle"
+                  },
+                  {
+                    "topic": "Elasticity",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Force and deformation",
+                        "type": "LEAF",
+                        "explanation": "When you push or pull something, it can change its shape or size, which is called deformation.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Stress and strain",
+                        "type": "LEAF",
+                        "explanation": "Stress is like a push or pull on something, and strain is how much it gets bent or stretched because of that push or pull.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Material properties",
+                        "type": "LEAF",
+                        "explanation": "Material properties are the special qualities of something, like how hard, soft, or stretchy it is.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Spring or elastic material behavior",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Force and motion 2. Stress and strain 3. Hooke's Law",
+                        "type": "LEAF",
+                        "explanation": "When things are pushed or pulled, they can stretch or bend, and how much they change depends on how hard you push, following a simple rule called Hooke's Law.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Basic properties of motion (speed, velocity, acceleration)",
+            "type": "CONCEPT",
+            "children": [
+              {
+                "topic": "Understanding of what distance and position mean 2. Basic concept of time and how it measures duration 3. The idea that objects can move from one place to another",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Understanding of what an object is",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Concept of a thing or entity",
+                        "type": "LEAF",
+                        "explanation": "A \"concept of a thing or entity\" is like the idea or image in your mind of what something is, like a dog or a tree.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic understanding of existence or being",
+                        "type": "LEAF",
+                        "explanation": "It's knowing what it means to be alive or real.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic idea of identification or recognition",
+                        "type": "LEAF",
+                        "explanation": "It's knowing who someone is or what something is just by looking at it or noticing it.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Basic idea that things can be located somewhere",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "The concept of an object or thing",
+                        "type": "LEAF",
+                        "explanation": "An object or thing is something you can see or touch, like a toy, a book, or a ball.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The idea that objects can have positions or places",
+                        "type": "LEAF",
+                        "explanation": "It's the idea that things can be somewhere, like a toy can be on the table.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The understanding that positions or places can be identified or distinguished",
+                        "type": "LEAF",
+                        "explanation": "It's knowing that you can tell where something is or tell things apart because they have different spots or places.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Concept that things can change location over time",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "The idea that objects exist in the world",
+                        "type": "LEAF",
+                        "explanation": "It's the idea that things like toys, chairs, and trees are real and exist outside of our thoughts.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The concept of movement or change",
+                        "type": "LEAF",
+                        "explanation": "Moving or changing means something is going from one place to another or becoming different.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The understanding of time passing",
+                        "type": "LEAF",
+                        "explanation": "Understanding how time passes means knowing that moments go by and things change as time moves forward.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Force and Newton's Laws of Motion",
+            "type": "CONCEPT",
+            "children": [
+              {
+                "topic": "Mass and weight 2. Basic concepts of motion (speed and velocity) 3. The idea of cause and effect",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Understanding of what matter is",
+                    "type": "LEAF",
+                    "children": [],
+                    "reason": "cycle"
+                  },
+                  {
+                    "topic": "Basic idea of measurement and units",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding of quantities (what things can be measured)",
+                        "type": "LEAF",
+                        "explanation": "Understanding of quantities means knowing that some things, like weight or size, can be measured with numbers.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Concept of comparison (how to determine if two things are the same or different)",
+                        "type": "LEAF",
+                        "explanation": "It's when you look at two things to see if they are just the same or if they are different.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic idea of numbers and counting",
+                        "type": "LEAF",
+                        "explanation": "Numbers and counting are ways to show how many things there are, like counting apples or toys.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Concept of change over time",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Concept of time",
+                        "type": "LEAF",
+                        "explanation": "Time is like a way we tell when things happen, like morning, afternoon, or night.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Change",
+                        "type": "LEAF",
+                        "children": [],
+                        "reason": "cycle"
+                      },
+                      {
+                        "topic": "Observation",
+                        "type": "LEAF",
+                        "explanation": "Observation is when you look at or notice something carefully to learn more about it.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Mathematical Foundations (including algebra and basic calculus)",
+        "type": "CONCEPT",
+        "children": [
+          {
+            "topic": "Numbers and basic arithmetic operations (addition, subtraction, multiplication, division) 2. Understanding of variables and simple expressions 3. Basic problem-solving skills",
+            "type": "CONCEPT",
+            "children": [
+              {
+                "topic": "Counting and number recognition",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Understanding of quantities (more than, less than)",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Counting numbers (1, 2, 3, ...)",
+                        "type": "LEAF",
+                        "explanation": "Counting numbers are the numbers you use to tell how many things there are, starting from 1 and going up like 1, 2, 3, and so on.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Recognizing quantities and comparing sizes",
+                        "type": "LEAF",
+                        "explanation": "It's about looking at how many things there are and figuring out which one is bigger or smaller.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Understanding the concept of \"same as\" (equal to)",
+                        "type": "LEAF",
+                        "explanation": "\"Same as\" means two things are exactly the same or equal, like two toys that look the same.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Recognition of basic shapes and objects",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding of basic geometric shapes (circle, square, triangle, etc.)",
+                        "type": "LEAF",
+                        "explanation": "Knowing what a circle, square, and triangle look like.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Ability to perceive and differentiate visual features such as edges and contours",
+                        "type": "LEAF",
+                        "explanation": "It's the skill to see and tell the difference between things like the outlines and shapes in what you look at.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Knowledge of how objects are represented visually in images or scenes",
+                        "type": "LEAF",
+                        "explanation": "It's knowing how things look in pictures or in a place so you can recognize or understand them.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Concept of one-to-one correspondence",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding of the concept of a function",
+                        "type": "LEAF",
+                        "explanation": "A function is like a machine where you put in a number, and it gives you back another number based on a fixed rule.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Understanding of the idea of pairing or matching items",
+                        "type": "LEAF",
+                        "explanation": "It's when you find two things that go together or fit well, like matching socks or pairing shoes.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic knowledge of sets and elements",
+                        "type": "LEAF",
+                        "explanation": "Knowing about sets and elements means understanding that a set is like a box that holds things, and the things inside are called elements.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Understanding of the concept of quantity and comparison",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Recognizing objects and their features",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Sensory perception",
+                        "type": "LEAF",
+                        "children": [],
+                        "reason": "cycle"
+                      },
+                      {
+                        "topic": "Visual processing",
+                        "type": "LEAF",
+                        "explanation": "Visual processing is how your brain understands what your eyes see.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic shape recognition",
+                        "type": "LEAF",
+                        "explanation": "Basic shape recognition is when your brain learns to see and understand simple forms like circles, squares, and triangles.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Understanding the concept of \"more\" and \"less\" in simple contexts",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Recognizing and comparing quantities or amounts",
+                        "type": "LEAF",
+                        "explanation": "It's when you see how much of something there is and tell if one amount is more, less, or the same as another.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Understanding the concept of size or number",
+                        "type": "LEAF",
+                        "explanation": "Understanding the concept of size or number means knowing how big or how many things there are.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Knowing how to count objects",
+                        "type": "LEAF",
+                        "explanation": "Knowing how to count objects means being able to say how many things there are.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Basic counting skills",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Understanding of numbers and their symbols",
+                        "type": "LEAF",
+                        "explanation": "Understanding numbers and their symbols means knowing what numbers are and how to write and read them.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Ability to recognize and compare quantities",
+                        "type": "LEAF",
+                        "explanation": "It's the skill to see how many things there are and tell if two groups have the same or different number of items.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Concept of one-to-one correspondence",
+                        "type": "LEAF",
+                        "children": [],
+                        "reason": "cycle"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Basic familiarity with symbols and notation",
+                "type": "CONCEPT",
+                "children": [
+                  {
+                    "topic": "Understanding of basic language and communication",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Sounds and symbols used to represent ideas",
+                        "type": "LEAF",
+                        "explanation": "It's when we use words or pictures to show what we're thinking or feeling.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Recognizing that symbols have specific meanings",
+                        "type": "LEAF",
+                        "explanation": "It means understanding that symbols, like pictures or signs, stand for something else.",
+                        "children": []
+                      },
+                      {
+                        "topic": "The concept that people can share information through symbols",
+                        "type": "LEAF",
+                        "explanation": "It's when people use words, pictures, or signs to talk and share ideas with each other.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Familiarity with the alphabet and common symbols (e.g., numbers, punctuation)",
+                    "type": "CONCEPT",
+                    "children": [
+                      {
+                        "topic": "Recognition of visual symbols and characters",
+                        "type": "LEAF",
+                        "explanation": "Recognizing visual symbols and characters means being able to see and understand pictures or letters and know what they mean.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Understanding that symbols represent sounds or meanings",
+                        "type": "LEAF",
+                        "explanation": "It's knowing that symbols like letters or pictures stand for words, sounds, or ideas.",
+                        "children": []
+                      },
+                      {
+                        "topic": "Basic knowledge of written language and its purpose",
+                        "type": "LEAF",
+                        "explanation": "Knowing how written words work and why we write helps us share ideas and understand things better.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teaching_order": [
+    {
+      "topic": "Recognizing and counting objects",
+      "type": "LEAF",
+      "explanation": "It's when you look at things and know how many there are."
+    },
+    {
+      "topic": "Understanding the concept of quantity",
+      "type": "LEAF",
+      "explanation": "Understanding the concept of quantity means knowing how much of something there is."
+    },
+    {
+      "topic": "Recognizing symbols used to represent numbers",
+      "type": "LEAF",
+      "explanation": "It's about learning how different signs or pictures stand for numbers, like how a digit or a symbol shows a specific amount."
+    },
+    {
+      "topic": "Understanding of what a number is",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of numbers and their names 2. Recognizing individual objects as separate entities 3. The concept of one-to-one correspondence",
+      "type": "LEAF",
+      "explanation": "It's about knowing what numbers are and their names, seeing objects as separate things, and matching each object to one number."
+    },
+    {
+      "topic": "Counting skills (ability to count objects or numbers in sequence)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of numbers and counting",
+      "type": "LEAF",
+      "explanation": "Knowing how numbers work and being able to count things easily."
+    },
+    {
+      "topic": "Concept of size or amount",
+      "type": "LEAF",
+      "explanation": "The \"concept of size or amount\" is about how big, small, or how much something is."
+    },
+    {
+      "topic": "Basic idea of equality (same as)",
+      "type": "LEAF",
+      "explanation": "The idea of equality means that two things are the same in how they look or work."
+    },
+    {
+      "topic": "Basic understanding of quantity and comparison (more than, less than)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Numbers and basic arithmetic operations (addition, subtraction, multiplication, division)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Counting",
+      "type": "LEAF",
+      "explanation": "Counting is when you say or write numbers in order to find out how many things there are."
+    },
+    {
+      "topic": "Recognition of symbols (like numerals)",
+      "type": "LEAF",
+      "explanation": "Recognizing symbols like numbers means knowing what they are and what they stand for."
+    },
+    {
+      "topic": "Understanding of quantity",
+      "type": "LEAF",
+      "explanation": "Understanding of quantity means knowing how much of something there is."
+    },
+    {
+      "topic": "Numbers and basic arithmetic operations",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Number",
+      "type": "LEAF",
+      "explanation": "A number is a symbol or word that shows how many things there are."
+    },
+    {
+      "topic": "Measurement",
+      "type": "LEAF",
+      "explanation": "Measurement is when you find out how big, long, or heavy something is."
+    },
+    {
+      "topic": "Comparison",
+      "type": "LEAF",
+      "explanation": "Comparison is when you look at two things to see how they are the same or different."
+    },
+    {
+      "topic": "The concept of a value or quantity",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "The concept of a sign or mark",
+      "type": "LEAF",
+      "explanation": "A sign or mark is something that shows or tells you something, like a stop sign or a smiley face."
+    },
+    {
+      "topic": "The idea that symbols can stand for something else",
+      "type": "LEAF",
+      "explanation": "It's when a picture or word is used to show or tell about something else."
+    },
+    {
+      "topic": "The notion of representing or standing for a specific thing or idea",
+      "type": "LEAF",
+      "explanation": "It's when something, like a picture or word, shows or means a particular thing or idea."
+    },
+    {
+      "topic": "The idea of a symbol representing a value",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of variables and simple expressions",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Recognizing objects and actions",
+      "type": "LEAF",
+      "explanation": "Recognizing objects and actions means being able to see things or what people are doing and knowing what they are."
+    },
+    {
+      "topic": "Following basic directions",
+      "type": "LEAF",
+      "explanation": "Doing what someone tells you to do step by step."
+    },
+    {
+      "topic": "Understanding simple language or commands",
+      "type": "LEAF",
+      "explanation": "\"Understanding simple language or commands means being able to know what someone is saying or asking you to do in a clear and easy way.\""
+    },
+    {
+      "topic": "Understanding of simple tasks and instructions",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Ability to recognize and understand simple statements or claims 2. Basic comprehension of language and vocabulary 3. Understanding of the concept of truth and falsehood",
+      "type": "LEAF",
+      "explanation": "It's about being able to understand simple sentences, knowing what words mean, and telling if something is true or false."
+    },
+    {
+      "topic": "Basic critical thinking skills",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding what a problem is",
+      "type": "LEAF",
+      "explanation": "Knowing what a problem is means figuring out what is not right or what needs to be fixed."
+    },
+    {
+      "topic": "Recognizing situations that may require a solution",
+      "type": "LEAF",
+      "explanation": "It's when you notice that something isn't right or could be better, and you think about fixing it."
+    },
+    {
+      "topic": "Developing basic observation skills",
+      "type": "LEAF",
+      "explanation": "Getting good at noticing small things around you helps you see what's happening and learn more about your world."
+    },
+    {
+      "topic": "Ability to identify problems",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Basic problem-solving skills",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Basic understanding of mathematics (algebra, basic calculus)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Existence",
+      "type": "LEAF",
+      "explanation": "Existence means that something is real and is actually there."
+    },
+    {
+      "topic": "Identity",
+      "type": "LEAF",
+      "explanation": "Your identity is who you are, like your name, what you like, and what makes you special."
+    },
+    {
+      "topic": "Properties",
+      "type": "LEAF",
+      "explanation": "Properties are things that tell us what something is like, such as its color, size, or shape."
+    },
+    {
+      "topic": "What an object is",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Matter",
+      "type": "LEAF",
+      "explanation": "Matter is anything that takes up space and has weight."
+    },
+    {
+      "topic": "States of matter",
+      "type": "LEAF",
+      "explanation": "States of matter are the different forms that things like solids, liquids, and gases can take."
+    },
+    {
+      "topic": "Properties of materials",
+      "type": "LEAF",
+      "explanation": "Properties of materials are the ways we can tell what a material is like, such as if it's hard, soft, heavy, or stretchy."
+    },
+    {
+      "topic": "Different types of objects (e.g., solid, liquid, gas)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding what objects are",
+      "type": "LEAF",
+      "explanation": "Understanding what objects are means knowing that objects are things you can see and touch, like a toy or a ball."
+    },
+    {
+      "topic": "Recognizing that objects can have different qualities or features",
+      "type": "LEAF",
+      "explanation": "It means knowing that things can look or feel different from each other."
+    },
+    {
+      "topic": "Knowing that words can be used to describe qualities of objects",
+      "type": "LEAF",
+      "explanation": "Words help us tell what things are like or how they look, feel, or sound."
+    },
+    {
+      "topic": "Basic vocabulary for describing objects (e.g., words like \"big,\" \"round,\" \"hard\")",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Properties of objects (such as shape, size, and state)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Movement",
+      "type": "LEAF",
+      "explanation": "Movement is when something or someone changes their place or position."
+    },
+    {
+      "topic": "Body parts and muscles",
+      "type": "LEAF",
+      "explanation": "Body parts are the different pieces that make up your body, like your head, arms, and legs, and muscles are the parts inside your body that help you move and do things."
+    },
+    {
+      "topic": "Energy use",
+      "type": "LEAF",
+      "explanation": "Energy use is when we use power, like electricity or fuel, to do things like turn on lights or run cars."
+    },
+    {
+      "topic": "The concept of physical activity",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "The meaning of \"active",
+      "type": "LEAF",
+      "explanation": "\"Active\" means moving or doing something instead of resting or staying still."
+    },
+    {
+      "topic": "The meaning of \"inactive",
+      "type": "LEAF",
+      "explanation": "Inactive means not doing anything or not being busy."
+    },
+    {
+      "topic": "The concept of behavior or actions",
+      "type": "LEAF",
+      "explanation": "Behavior or actions are what a person does, like playing, talking, or helping."
+    },
+    {
+      "topic": "The difference between being active and being inactive",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Sensory perception",
+      "type": "LEAF",
+      "explanation": "Sensory perception is how our body uses our senses, like seeing, hearing, touching, tasting, and smelling, to understand what is around us."
+    },
+    {
+      "topic": "The concept of the body as a distinct entity",
+      "type": "LEAF",
+      "explanation": "The idea that the body is its own separate thing, different from the mind or feelings."
+    },
+    {
+      "topic": "Basic motor movements",
+      "type": "LEAF",
+      "explanation": "Basic motor movements are simple actions like walking, running, or grabbing something that your body does to move around or use your hands."
+    },
+    {
+      "topic": "Basic body awareness",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Basic understanding of movement and rest",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "The concept of a push or pull",
+      "type": "FACT",
+      "explanation": "Push or pull are ways to make something move or stop by using your hands or body."
+    },
+    {
+      "topic": "Concepts of motion and force",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Something exists",
+      "type": "LEAF",
+      "explanation": "\"Something exists\" means there is actually something real out there, not just in your imagination."
+    },
+    {
+      "topic": "Things can be identified or distinguished",
+      "type": "LEAF",
+      "explanation": "Things can be told apart or recognized because they look different or have different features."
+    },
+    {
+      "topic": "The world contains different things",
+      "type": "LEAF",
+      "explanation": "The world has many different things like animals, plants, and objects."
+    },
+    {
+      "topic": "An object is something that exists in the world",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "An object exists in a space",
+      "type": "LEAF",
+      "explanation": "When we say \"An object exists in a space,\" it means the object is somewhere inside that area or place."
+    },
+    {
+      "topic": "Objects can move or stay still",
+      "type": "LEAF",
+      "explanation": ""
+    },
+    {
+      "topic": "The position of an object can change over time",
+      "type": "LEAF",
+      "explanation": "When an object moves from one place to another as time passes, its position changes."
+    },
+    {
+      "topic": "Things can change their position or stay in the same place",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "An object is a thing that has a specific shape and size",
+      "type": "LEAF",
+      "explanation": "An object is something that has a certain look and takes up space."
+    },
+    {
+      "topic": "Position is where an object is located in space",
+      "type": "LEAF",
+      "explanation": "Position is where something is sitting or standing in a place."
+    },
+    {
+      "topic": "Time is the ongoing sequence of events from the past to the future",
+      "type": "LEAF",
+      "explanation": "Time is like a line that moves forward, showing everything that has already happened and what will happen next."
+    },
+    {
+      "topic": "Movement is when an object changes its position over time",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "An object is something that has mass and occupies space",
+      "type": "LEAF",
+      "explanation": "An object is anything that has weight and takes up room."
+    },
+    {
+      "topic": "An object can change its position relative to a reference point",
+      "type": "LEAF",
+      "explanation": "When something moves so it’s not in the same spot as before compared to a fixed point."
+    },
+    {
+      "topic": "Motion is when an object changes its position over time",
+      "type": "LEAF",
+      "explanation": "Motion happens when something moves from one place to another over time."
+    },
+    {
+      "topic": "An object can be at rest or moving",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "An object is something that has a position in space.",
+      "type": "LEAF",
+      "explanation": "An object is something that is somewhere in a place you can see or touch."
+    },
+    {
+      "topic": "Motion means an object changing its position over time.",
+      "type": "LEAF",
+      "explanation": "Motion is when something moves from one place to another over time."
+    },
+    {
+      "topic": "An object can be at rest or moving at a certain speed and in a certain direction.",
+      "type": "LEAF",
+      "explanation": "An object can stay still or move in a certain way, either fast or slow, and in a certain direction."
+    },
+    {
+      "topic": "An object can change its motion (speed or direction)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "An object is something that can move or stay still.",
+      "type": "LEAF",
+      "explanation": "An object is anything that can either stay still or move around."
+    },
+    {
+      "topic": "Push and pull are ways to change how an object moves.",
+      "type": "LEAF",
+      "explanation": "Push and pull are ways to make something start, stop, or change how it moves."
+    },
+    {
+      "topic": "Movement is when an object changes position.",
+      "type": "LEAF",
+      "explanation": "When something moves, it goes from one place to another."
+    },
+    {
+      "topic": "A force is a push or pull acting on an object",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Force can change the motion of objects",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Energy is a property that objects can have.",
+      "type": "LEAF",
+      "explanation": "Energy is what makes things happen or move."
+    },
+    {
+      "topic": "An object can do or receive work.",
+      "type": "LEAF",
+      "explanation": "An object can make something move or be moved by pushing, pulling, or lifting."
+    },
+    {
+      "topic": "Force is a push or pull that can change an object's motion.",
+      "type": "LEAF",
+      "explanation": "Force is when you push or pull something to make it move or stop."
+    },
+    {
+      "topic": "Work is a way to transfer energy to or from an object.",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "An object is anything that has mass and takes up space.",
+      "type": "LEAF",
+      "explanation": "An object is something you can see or touch that has weight and takes up room."
+    },
+    {
+      "topic": "An object can move from one place to another.",
+      "type": "LEAF",
+      "explanation": "An object can change its position from one spot to a different spot."
+    },
+    {
+      "topic": "An object can change shape.",
+      "type": "LEAF",
+      "explanation": "When something can change shape, it means it can look different or become a new shape."
+    },
+    {
+      "topic": "Force is a push or pull that can cause an object to move or change shape.",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "An object has a position in space.",
+      "type": "LEAF",
+      "explanation": "It means that an object is somewhere in a place you can point to or see."
+    },
+    {
+      "topic": "Time is a measurable concept.",
+      "type": "LEAF",
+      "explanation": "Time is when we can tell how long things take or when something happens."
+    },
+    {
+      "topic": "Change means something becomes different.",
+      "type": "LEAF",
+      "explanation": "Change means that something is no longer the same as it was before."
+    },
+    {
+      "topic": "Motion is the change in position of an object over time.",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Energy is a way to describe the ability to do work",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Basic understanding of energy and work",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Classical Physics",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of what matter is",
+      "type": "LEAF",
+      "explanation": "Matter is anything around us that takes up space and has weight."
+    },
+    {
+      "topic": "Concept of position and how objects can be located in space",
+      "type": "LEAF",
+      "explanation": "The concept of position is where something is, and objects can be found in space by saying where they are, like \"next to the tree\" or \"on the table.\""
+    },
+    {
+      "topic": "Basic idea that objects can move from one place to another",
+      "type": "LEAF",
+      "explanation": "It's the idea that things can go from one spot to a different spot."
+    },
+    {
+      "topic": "Basic concepts of motion and force",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Oscillation",
+      "type": "LEAF",
+      "explanation": "Oscillation is when something moves back and forth or up and down repeatedly, like a swing."
+    },
+    {
+      "topic": "Restoring force",
+      "type": "LEAF",
+      "explanation": "A restoring force is what pushes or pulls something back to its original position when it moves away."
+    },
+    {
+      "topic": "Period and frequency",
+      "type": "LEAF",
+      "explanation": "Period is how long it takes for something to happen again, and frequency is how many times it happens in a certain amount of time."
+    },
+    {
+      "topic": "Simple harmonic motion (SHM)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Energy",
+      "type": "LEAF",
+      "explanation": "Energy is what makes things happen or move."
+    },
+    {
+      "topic": "Forms of energy (such as kinetic and potential energy)",
+      "type": "LEAF",
+      "explanation": "Energy is what makes things move or stay still, like when a ball is moving or sitting on top of a hill."
+    },
+    {
+      "topic": "Basic principles of motion and forces",
+      "type": "LEAF",
+      "explanation": "Things move because something pushes or pulls them, and how they move depends on how much push or pull there is."
+    },
+    {
+      "topic": "Energy conservation and transfer",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Oscillations and periodic motion",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Position",
+      "type": "LEAF",
+      "explanation": "Your position is where you are standing or sitting right now."
+    },
+    {
+      "topic": "Change",
+      "type": "LEAF",
+      "explanation": "Change is when something becomes different from how it was before."
+    },
+    {
+      "topic": "Force",
+      "type": "LEAF",
+      "explanation": "Force is a push or pull that makes something move or stop."
+    },
+    {
+      "topic": "Motion and movement",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Concept of position 2. Understanding of time 3. Basic idea of movement",
+      "type": "LEAF",
+      "explanation": "It's about knowing where things are, when things happen, and how they change or move."
+    },
+    {
+      "topic": "Basic understanding of speed and velocity",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Relationship between events and outcomes",
+      "type": "LEAF",
+      "explanation": "When something happens, it can cause something else to happen, like a chain of events leading to an outcome."
+    },
+    {
+      "topic": "Basic understanding of sequences and timing",
+      "type": "LEAF",
+      "explanation": "It means knowing how things happen one after another and how long they take."
+    },
+    {
+      "topic": "The idea that some events happen because of other events",
+      "type": "LEAF",
+      "explanation": "It's when one thing causes or makes another thing happen."
+    },
+    {
+      "topic": "Concepts of cause and effect",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Force and acceleration",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Force and deformation",
+      "type": "LEAF",
+      "explanation": "When you push or pull something, it can change its shape or size, which is called deformation."
+    },
+    {
+      "topic": "Stress and strain",
+      "type": "LEAF",
+      "explanation": "Stress is like a push or pull on something, and strain is how much it gets bent or stretched because of that push or pull."
+    },
+    {
+      "topic": "Material properties",
+      "type": "LEAF",
+      "explanation": "Material properties are the special qualities of something, like how hard, soft, or stretchy it is."
+    },
+    {
+      "topic": "Elasticity",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Force and motion 2. Stress and strain 3. Hooke's Law",
+      "type": "LEAF",
+      "explanation": "When things are pushed or pulled, they can stretch or bend, and how much they change depends on how hard you push, following a simple rule called Hooke's Law."
+    },
+    {
+      "topic": "Spring or elastic material behavior",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Hooke's Law",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Vibration and Simple Harmonic Motion",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Concept of a thing or entity",
+      "type": "LEAF",
+      "explanation": "A \"concept of a thing or entity\" is like the idea or image in your mind of what something is, like a dog or a tree."
+    },
+    {
+      "topic": "Basic understanding of existence or being",
+      "type": "LEAF",
+      "explanation": "It's knowing what it means to be alive or real."
+    },
+    {
+      "topic": "Basic idea of identification or recognition",
+      "type": "LEAF",
+      "explanation": "It's knowing who someone is or what something is just by looking at it or noticing it."
+    },
+    {
+      "topic": "Understanding of what an object is",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "The concept of an object or thing",
+      "type": "LEAF",
+      "explanation": "An object or thing is something you can see or touch, like a toy, a book, or a ball."
+    },
+    {
+      "topic": "The idea that objects can have positions or places",
+      "type": "LEAF",
+      "explanation": "It's the idea that things can be somewhere, like a toy can be on the table."
+    },
+    {
+      "topic": "The understanding that positions or places can be identified or distinguished",
+      "type": "LEAF",
+      "explanation": "It's knowing that you can tell where something is or tell things apart because they have different spots or places."
+    },
+    {
+      "topic": "Basic idea that things can be located somewhere",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "The idea that objects exist in the world",
+      "type": "LEAF",
+      "explanation": "It's the idea that things like toys, chairs, and trees are real and exist outside of our thoughts."
+    },
+    {
+      "topic": "The concept of movement or change",
+      "type": "LEAF",
+      "explanation": "Moving or changing means something is going from one place to another or becoming different."
+    },
+    {
+      "topic": "The understanding of time passing",
+      "type": "LEAF",
+      "explanation": "Understanding how time passes means knowing that moments go by and things change as time moves forward."
+    },
+    {
+      "topic": "Concept that things can change location over time",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of what distance and position mean 2. Basic concept of time and how it measures duration 3. The idea that objects can move from one place to another",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Basic properties of motion (speed, velocity, acceleration)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of quantities (what things can be measured)",
+      "type": "LEAF",
+      "explanation": "Understanding of quantities means knowing that some things, like weight or size, can be measured with numbers."
+    },
+    {
+      "topic": "Concept of comparison (how to determine if two things are the same or different)",
+      "type": "LEAF",
+      "explanation": "It's when you look at two things to see if they are just the same or if they are different."
+    },
+    {
+      "topic": "Basic idea of numbers and counting",
+      "type": "LEAF",
+      "explanation": "Numbers and counting are ways to show how many things there are, like counting apples or toys."
+    },
+    {
+      "topic": "Basic idea of measurement and units",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Concept of time",
+      "type": "LEAF",
+      "explanation": "Time is like a way we tell when things happen, like morning, afternoon, or night."
+    },
+    {
+      "topic": "Observation",
+      "type": "LEAF",
+      "explanation": "Observation is when you look at or notice something carefully to learn more about it."
+    },
+    {
+      "topic": "Concept of change over time",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Mass and weight 2. Basic concepts of motion (speed and velocity) 3. The idea of cause and effect",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Force and Newton's Laws of Motion",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Waves and Oscillations",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Counting numbers (1, 2, 3, ...)",
+      "type": "LEAF",
+      "explanation": "Counting numbers are the numbers you use to tell how many things there are, starting from 1 and going up like 1, 2, 3, and so on."
+    },
+    {
+      "topic": "Recognizing quantities and comparing sizes",
+      "type": "LEAF",
+      "explanation": "It's about looking at how many things there are and figuring out which one is bigger or smaller."
+    },
+    {
+      "topic": "Understanding the concept of \"same as\" (equal to)",
+      "type": "LEAF",
+      "explanation": "\"Same as\" means two things are exactly the same or equal, like two toys that look the same."
+    },
+    {
+      "topic": "Understanding of quantities (more than, less than)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of basic geometric shapes (circle, square, triangle, etc.)",
+      "type": "LEAF",
+      "explanation": "Knowing what a circle, square, and triangle look like."
+    },
+    {
+      "topic": "Ability to perceive and differentiate visual features such as edges and contours",
+      "type": "LEAF",
+      "explanation": "It's the skill to see and tell the difference between things like the outlines and shapes in what you look at."
+    },
+    {
+      "topic": "Knowledge of how objects are represented visually in images or scenes",
+      "type": "LEAF",
+      "explanation": "It's knowing how things look in pictures or in a place so you can recognize or understand them."
+    },
+    {
+      "topic": "Recognition of basic shapes and objects",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of the concept of a function",
+      "type": "LEAF",
+      "explanation": "A function is like a machine where you put in a number, and it gives you back another number based on a fixed rule."
+    },
+    {
+      "topic": "Understanding of the idea of pairing or matching items",
+      "type": "LEAF",
+      "explanation": "It's when you find two things that go together or fit well, like matching socks or pairing shoes."
+    },
+    {
+      "topic": "Basic knowledge of sets and elements",
+      "type": "LEAF",
+      "explanation": "Knowing about sets and elements means understanding that a set is like a box that holds things, and the things inside are called elements."
+    },
+    {
+      "topic": "Concept of one-to-one correspondence",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Counting and number recognition",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Visual processing",
+      "type": "LEAF",
+      "explanation": "Visual processing is how your brain understands what your eyes see."
+    },
+    {
+      "topic": "Basic shape recognition",
+      "type": "LEAF",
+      "explanation": "Basic shape recognition is when your brain learns to see and understand simple forms like circles, squares, and triangles."
+    },
+    {
+      "topic": "Recognizing objects and their features",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Recognizing and comparing quantities or amounts",
+      "type": "LEAF",
+      "explanation": "It's when you see how much of something there is and tell if one amount is more, less, or the same as another."
+    },
+    {
+      "topic": "Understanding the concept of size or number",
+      "type": "LEAF",
+      "explanation": "Understanding the concept of size or number means knowing how big or how many things there are."
+    },
+    {
+      "topic": "Knowing how to count objects",
+      "type": "LEAF",
+      "explanation": "Knowing how to count objects means being able to say how many things there are."
+    },
+    {
+      "topic": "Understanding the concept of \"more\" and \"less\" in simple contexts",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of numbers and their symbols",
+      "type": "LEAF",
+      "explanation": "Understanding numbers and their symbols means knowing what numbers are and how to write and read them."
+    },
+    {
+      "topic": "Ability to recognize and compare quantities",
+      "type": "LEAF",
+      "explanation": "It's the skill to see how many things there are and tell if two groups have the same or different number of items."
+    },
+    {
+      "topic": "Basic counting skills",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Understanding of the concept of quantity and comparison",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Sounds and symbols used to represent ideas",
+      "type": "LEAF",
+      "explanation": "It's when we use words or pictures to show what we're thinking or feeling."
+    },
+    {
+      "topic": "Recognizing that symbols have specific meanings",
+      "type": "LEAF",
+      "explanation": "It means understanding that symbols, like pictures or signs, stand for something else."
+    },
+    {
+      "topic": "The concept that people can share information through symbols",
+      "type": "LEAF",
+      "explanation": "It's when people use words, pictures, or signs to talk and share ideas with each other."
+    },
+    {
+      "topic": "Understanding of basic language and communication",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Recognition of visual symbols and characters",
+      "type": "LEAF",
+      "explanation": "Recognizing visual symbols and characters means being able to see and understand pictures or letters and know what they mean."
+    },
+    {
+      "topic": "Understanding that symbols represent sounds or meanings",
+      "type": "LEAF",
+      "explanation": "It's knowing that symbols like letters or pictures stand for words, sounds, or ideas."
+    },
+    {
+      "topic": "Basic knowledge of written language and its purpose",
+      "type": "LEAF",
+      "explanation": "Knowing how written words work and why we write helps us share ideas and understand things better."
+    },
+    {
+      "topic": "Familiarity with the alphabet and common symbols (e.g., numbers, punctuation)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Basic familiarity with symbols and notation",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Numbers and basic arithmetic operations (addition, subtraction, multiplication, division) 2. Understanding of variables and simple expressions 3. Basic problem-solving skills",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Mathematical Foundations (including algebra and basic calculus)",
+      "type": "CONCEPT",
+      "explanation": ""
+    },
+    {
+      "topic": "Quantum Mechanics",
+      "type": "CONCEPT",
+      "explanation": ""
+    }
+  ],
+  "current_index": 4,
+  "waiting_for_synthesis": false,
+  "current_question": "**Scenario:**\nLiam has a basket of apples. He counts the apples and writes down the number \"8\" to show how many apples are inside. Later, he adds 3 more apples to the basket and updates his count to \"11.\"\n\n**Questions:**\n1. Why does Liam write down a number like \"8\" or \"11\" instead of just saying the apples verbally?  \n2. If Liam initially counts 8 apples, what does the number \"8\" tell us about the apples in the basket?  \n3. When Liam adds 3 apples and updates the number to \"11,\" what does this new number tell us about the basket's contents after the addition?\n\n**Think through:**\n- How does understanding what a number represents help Liam communicate how many apples are in the basket?\n- How does recognizing the symbol \"8\" or \"11\" relate to the actual quantity of apples?\n- What would happen if Liam knew the number but didn't understand what it represented? Would the number still tell him how many apples there are?",
+  "synthesis_start_time": 1770920376.9991481,
+  "attempt_count": 1,
+  "target_topic": "Quantum Mechanics",
+  "explained_current": true,
+  "chat_history": [
+    {
+      "role": "bot",
+      "content": "Great! Let me break down **Quantum Mechanics** into building blocks.\n\n```\n├─ Quantum Mechanics\n  ├─ Classical Physics\n    ├─ Basic understanding of mathematics (algebra, basic calculus)\n      ├─ Numbers and basic arithmetic operations (addition, subtraction, multiplication, division)\n        ├─ Understanding of what a number is\n          ├─ Recognizing and counting objects\n          ├─ Understanding the concept of quantity\n          ├─ Recognizing symbols used to represent numbers\n        ├─ Counting skills (ability to count objects or numbers in sequence)\n          ├─ Understanding of numbers and their names 2. Recognizing individual objects as separate entities 3. The concept of one-to-one correspondence\n        ├─ Basic understanding of quantity and comparison (more than, less than)\n          ├─ Understanding of numbers and counting\n          ├─ Concept of size or amount\n          ├─ Basic idea of equality (same as)\n      ├─ Understanding of variables and simple expressions\n        ├─ Numbers and basic arithmetic operations\n          ├─ Counting\n          ├─ Recognition of symbols (like numerals)\n          ├─ Understanding of quantity\n        ├─ The concept of a value or quantity\n          ├─ Number\n          ├─ Measurement\n          ├─ Comparison\n        ├─ The idea of a symbol representing a value\n          ├─ The concept of a sign or mark\n          ├─ The idea that symbols can stand for something else\n          ├─ The notion of representing or standing for a specific thing or idea\n      ├─ Basic problem-solving skills\n        ├─ Understanding of simple tasks and instructions\n          ├─ Recognizing objects and actions\n          ├─ Following basic directions\n          ├─ Understanding simple language or commands\n        ├─ Basic critical thinking skills\n          ├─ Ability to recognize and understand simple statements or claims 2. Basic comprehension of language and vocabulary 3. Understanding of the concept of truth and falsehood\n        ├─ Ability to identify problems\n          ├─ Understanding what a problem is\n          ├─ Recognizing situations that may require a solution\n          ├─ Developing basic observation skills\n    ├─ Concepts of motion and force\n      ├─ Properties of objects (such as shape, size, and state)\n        ├─ What an object is\n          ├─ Existence\n          ├─ Identity\n          ├─ Properties\n        ├─ Different types of objects (e.g., solid, liquid, gas)\n          ├─ Matter\n          ├─ States of matter\n          ├─ Properties of materials\n        ├─ Basic vocabulary for describing objects (e.g., words like \"big,\" \"round,\" \"hard\")\n          ├─ Understanding what objects are\n          ├─ Recognizing that objects can have different qualities or features\n          ├─ Knowing that words can be used to describe qualities of objects\n      ├─ Basic understanding of movement and rest\n        ├─ The concept of physical activity\n          ├─ Movement\n          ├─ Body parts and muscles\n          ├─ Energy use\n        ├─ The difference between being active and being inactive\n          ├─ The meaning of \"active\n          ├─ The meaning of \"inactive\n          ├─ The concept of behavior or actions\n        ├─ Basic body awareness\n          ├─ Sensory perception\n          ├─ The concept of the body as a distinct entity\n          ├─ Basic motor movements\n      ├─ The concept of a push or pull [FACT]\n    ├─ Basic understanding of energy and work\n      ├─ Objects can move or stay still\n        ├─ An object is something that exists in the world\n          ├─ Something exists\n          ├─ Things can be identified or distinguished\n          ├─ The world contains different things\n        ├─ Things can change their position or stay in the same place\n          ├─ An object exists in a space\n          ├─ Objects can move or stay still\n          ├─ The position of an object can change over time\n        ├─ Movement is when an object changes its position over time\n          ├─ An object is a thing that has a specific shape and size\n          ├─ Position is where an object is located in space\n          ├─ Time is the ongoing sequence of events from the past to the future\n      ├─ Force can change the motion of objects\n        ├─ An object can be at rest or moving\n          ├─ An object is something that has mass and occupies space\n          ├─ An object can change its position relative to a reference point\n          ├─ Motion is when an object changes its position over time\n        ├─ An object can change its motion (speed or direction)\n          ├─ An object is something that has a position in space.\n          ├─ Motion means an object changing its position over time.\n          ├─ An object can be at rest or moving at a certain speed and in a certain direction.\n        ├─ A force is a push or pull acting on an object\n          ├─ An object is something that can move or stay still.\n          ├─ Push and pull are ways to change how an object moves.\n          ├─ Movement is when an object changes position.\n      ├─ Energy is a way to describe the ability to do work\n        ├─ Work is a way to transfer energy to or from an object.\n          ├─ Energy is a property that objects can have.\n          ├─ An object can do or receive work.\n          ├─ Force is a push or pull that can change an object's motion.\n        ├─ Force is a push or pull that can cause an object to move or change shape.\n          ├─ An object is anything that has mass and takes up space.\n          ├─ An object can move from one place to another.\n          ├─ An object can change shape.\n        ├─ Motion is the change in position of an object over time.\n          ├─ An object has a position in space.\n          ├─ Time is a measurable concept.\n          ├─ Change means something becomes different.\n  ├─ Waves and Oscillations\n    ├─ Vibration and Simple Harmonic Motion\n      ├─ Oscillations and periodic motion\n        ├─ Basic concepts of motion and force\n          ├─ Understanding of what matter is\n          ├─ Concept of position and how objects can be located in space\n          ├─ Basic idea that objects can move from one place to another\n        ├─ Simple harmonic motion (SHM)\n          ├─ Oscillation\n          ├─ Restoring force\n          ├─ Period and frequency\n        ├─ Energy conservation and transfer\n          ├─ Energy\n          ├─ Forms of energy (such as kinetic and potential energy)\n          ├─ Basic principles of motion and forces\n      ├─ Force and acceleration\n        ├─ Motion and movement\n          ├─ Position\n          ├─ Change\n          ├─ Force\n        ├─ Basic understanding of speed and velocity\n          ├─ Concept of position 2. Understanding of time 3. Basic idea of movement\n        ├─ Concepts of cause and effect\n          ├─ Relationship between events and outcomes\n          ├─ Basic understanding of sequences and timing\n          ├─ The idea that some events happen because of other events\n      ├─ Hooke's Law\n        ├─ Force\n        ├─ Elasticity\n          ├─ Force and deformation\n          ├─ Stress and strain\n          ├─ Material properties\n        ├─ Spring or elastic material behavior\n          ├─ Force and motion 2. Stress and strain 3. Hooke's Law\n    ├─ Basic properties of motion (speed, velocity, acceleration)\n      ├─ Understanding of what distance and position mean 2. Basic concept of time and how it measures duration 3. The idea that objects can move from one place to another\n        ├─ Understanding of what an object is\n          ├─ Concept of a thing or entity\n          ├─ Basic understanding of existence or being\n          ├─ Basic idea of identification or recognition\n        ├─ Basic idea that things can be located somewhere\n          ├─ The concept of an object or thing\n          ├─ The idea that objects can have positions or places\n          ├─ The understanding that positions or places can be identified or distinguished\n        ├─ Concept that things can change location over time\n          ├─ The idea that objects exist in the world\n          ├─ The concept of movement or change\n          ├─ The understanding of time passing\n    ├─ Force and Newton's Laws of Motion\n      ├─ Mass and weight 2. Basic concepts of motion (speed and velocity) 3. The idea of cause and effect\n        ├─ Understanding of what matter is\n        ├─ Basic idea of measurement and units\n          ├─ Understanding of quantities (what things can be measured)\n          ├─ Concept of comparison (how to determine if two things are the same or different)\n          ├─ Basic idea of numbers and counting\n        ├─ Concept of change over time\n          ├─ Concept of time\n          ├─ Change\n          ├─ Observation\n  ├─ Mathematical Foundations (including algebra and basic calculus)\n    ├─ Numbers and basic arithmetic operations (addition, subtraction, multiplication, division) 2. Understanding of variables and simple expressions 3. Basic problem-solving skills\n      ├─ Counting and number recognition\n        ├─ Understanding of quantities (more than, less than)\n          ├─ Counting numbers (1, 2, 3, ...)\n          ├─ Recognizing quantities and comparing sizes\n          ├─ Understanding the concept of \"same as\" (equal to)\n        ├─ Recognition of basic shapes and objects\n          ├─ Understanding of basic geometric shapes (circle, square, triangle, etc.)\n          ├─ Ability to perceive and differentiate visual features such as edges and contours\n          ├─ Knowledge of how objects are represented visually in images or scenes\n        ├─ Concept of one-to-one correspondence\n          ├─ Understanding of the concept of a function\n          ├─ Understanding of the idea of pairing or matching items\n          ├─ Basic knowledge of sets and elements\n      ├─ Understanding of the concept of quantity and comparison\n        ├─ Recognizing objects and their features\n          ├─ Sensory perception\n          ├─ Visual processing\n          ├─ Basic shape recognition\n        ├─ Understanding the concept of \"more\" and \"less\" in simple contexts\n          ├─ Recognizing and comparing quantities or amounts\n          ├─ Understanding the concept of size or number\n          ├─ Knowing how to count objects\n        ├─ Basic counting skills\n          ├─ Understanding of numbers and their symbols\n          ├─ Ability to recognize and compare quantities\n          ├─ Concept of one-to-one correspondence\n      ├─ Basic familiarity with symbols and notation\n        ├─ Understanding of basic language and communication\n          ├─ Sounds and symbols used to represent ideas\n          ├─ Recognizing that symbols have specific meanings\n          ├─ The concept that people can share information through symbols\n        ├─ Familiarity with the alphabet and common symbols (e.g., numbers, punctuation)\n          ├─ Recognition of visual symbols and characters\n          ├─ Understanding that symbols represent sounds or meanings\n          ├─ Basic knowledge of written language and its purpose\n```\n\nWe'll learn **196 concepts**, starting with the simplest: **Recognizing and counting objects**.\n\n**Recognizing and counting objects**\n\nWhen you see a group of things, like five apples on a table, your eyes notice each apple individually. Recognizing objects means being able to tell when something is a separate thing, not just part of a bigger group. Counting is the process of saying how many separate objects there are—like saying “one, two, three…”. To do this well, you need to match each object to a number, making sure you don’t count the same one twice. Think of it like lining up toy cars: recognizing each car is separate, and counting is just saying how many cars are in the line.\n\nDoes this make sense? Ready to continue?",
+      "type": "tree",
+      "time": "23:45"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this makes sense. I'm ready to continue.",
+      "type": "message",
+      "time": "23:46"
+    },
+    {
+      "role": "bot",
+      "content": "✅ **Recognizing and counting objects** — got it!\n\n---\n\n**Understanding the concept of quantity**\n\nUnderstanding the concept of quantity means knowing how much of something there is. Imagine you have a basket of apples, and you count that there are 5 apples. The number 5 tells you the quantity of apples you have. So, quantity is simply how much or how many of something there are. Think of it like filling a jar with marbles—more marbles mean a bigger quantity, and fewer marbles mean a smaller quantity.\n\nDoes this make sense?",
+      "type": "explanation",
+      "time": "23:46"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this makes sense. Please continue.",
+      "type": "message",
+      "time": "23:46"
+    },
+    {
+      "role": "bot",
+      "content": "Now let's test your understanding of **Understanding the concept of quantity**.\n\n**Scenario:**  \nMaria has a basket of apples and oranges. She counts 8 apples and 5 oranges. She wants to understand which fruit she has more of and by how much.\n\n**Questions:**  \n1. How many more apples are there than oranges?  \n2. If Maria adds 3 oranges to the basket, does the number of oranges become equal to the apples? Why or why not?  \n3. If she removes 2 apples, how does that change the comparison of quantities?\n\n**Think through:**  \n- How does recognizing and counting objects help determine the quantities?  \n- How does understanding the concept of quantity guide the comparison between apples and oranges?  \n- What happens if the number of oranges is increased or decreased — how does that affect the overall understanding of which fruit has a greater quantity?\n\nTake your time — explain your reasoning!",
+      "type": "synthesis_question",
+      "time": "23:46"
+    },
+    {
+      "role": "user",
+      "content": "Let me answer these questions:\n\n1. How many more apples than oranges? Maria has 8 apples and 5 oranges, so there are 3 more apples (8 - 5 = 3).\n\n2. If Maria adds 3 oranges, does the number equal the apples? Currently she has 5 oranges. Adding 3 makes it 8 oranges (5 + 3 = 8). Yes, this equals the number of apples (8). The quantities become equal.\n\n3. If she removes 2 apples, how does that change the comparison? She would have 6 apples (8 - 2 = 6) and still 5 oranges. Now apples are only 1 more than oranges instead of 3 more.\n\nRecognizing and counting helps determine quantities by identifying each object as separate and assigning numbers to them. Understanding quantity then allows us to compare these numbers (more/less/equal) and understand the relationships between different groups of objects.",
+      "type": "message",
+      "time": "23:47"
+    },
+    {
+      "role": "bot",
+      "content": "**Excellent!** The student effectively used counting to determine quantities and clearly explained how adding or removing fruits affects the comparison, demonstrating understanding of the prerequisites and their interaction. They provided logical reasoning and addressed the change in quantities, showing good depth. However, they could have discussed more nuanced scenarios or edge cases, such as what happens if quantities are equal initially or if more than one change occurs.\n\n✅ You've mastered **Understanding the concept of quantity** (Score: 85/100)\n\n💡 Key insight: *Recognizing the relationship between counting objects and understanding comparative quantities is fundamental to grasping basic mathematical concepts.*\n\n---\n\n**Recognizing symbols used to represent numbers**\n\nNumbers are symbols, like special shapes or marks, that stand for how many things there are. For example, the symbol \"3\" means three objects, like three apples. When you see a number symbol, you know exactly how many items it represents without counting each one again. Think of it like a shortcut—using symbols is like a secret code for showing amounts quickly. It's like a nickname for a group of objects, so you can remember and talk about them easily.\n\nDoes this make sense?",
+      "type": "feedback",
+      "time": "23:47"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this makes sense. Continue.",
+      "type": "message",
+      "time": "23:48"
+    },
+    {
+      "role": "bot",
+      "content": "Now let's test your understanding of **Recognizing symbols used to represent numbers**.\n\n**Scenario:**  \nMaria is helping her teacher set up a counting game in the classroom. She places small toy blocks in front of each student and puts number cards next to them, with symbols like \"1,\" \"2,\" and \"3\" on the cards. Maria asks the students to match the blocks to the correct number cards based on how many blocks they see.\n\n**Questions:**  \n1. If a student counts the blocks and finds there are 4, but the number card next to them shows \"3,\" what might be the problem?  \n2. How can recognizing the symbol \"4\" help the student correctly match the blocks?  \n3. If the student understands the quantity but confuses the symbol \"2\" with \"5,\" what might be causing the mistake?  \n\n**Think through:**  \n- How does recognizing the symbols affect matching quantities accurately?  \n- How does understanding the actual number of objects influence the ability to identify the correct symbol?  \n- What could happen if a student knows the quantity but is unfamiliar with certain number symbols?\n\nTake your time — explain your reasoning!",
+      "type": "synthesis_question",
+      "time": "23:48"
+    },
+    {
+      "role": "user",
+      "content": "1. The problem is the student counted correctly (4 blocks) but the card shows \"3\". The mismatch means either they miscounted or the card is wrong for that set. The student needs to recognize that the symbol \"4\" should match 4 blocks, not \"3\".\n\n2. Recognizing the symbol \"4\" helps because the student can look at the symbol on the card and know it represents 4 objects without recounting. They match the counted quantity (4 blocks) to the symbol \"4\".\n\n3. The mistake is likely not understanding what each symbol represents. The student may not have learned that \"2\" and \"5\" are different symbols representing different quantities. Symbol recognition is separate from counting.\n\nRecognizing symbols allows us to quickly identify quantities without counting each time. Understanding the actual count is necessary first, but symbols provide a shorthand. If you know the quantity but not the symbols, you can count but can't read or write numbers.",
+      "type": "message",
+      "time": "23:49"
+    },
+    {
+      "role": "bot",
+      "content": "**Excellent!** The student effectively discussed the importance of recognizing symbols and understanding quantities, showing how they interact to enable correct matching. They explained the role of symbol recognition in quick identification and the necessity of understanding actual counts, addressing key prerequisites. However, they could have explored more nuanced scenarios, such as what happens if a student confuses symbols or has partial understanding.\n\n✅ You've mastered **Recognizing symbols used to represent numbers** (Score: 75/100)\n\n💡 Key insight: *Recognizing symbols serves as a crucial shortcut that complements counting, but both are essential for accurate number matching.*\n\n---\n\n**Understanding of what a number is**\n\nA number is a way we show how many things there are, like how many apples are in a basket. If you have three apples, the number 3 tells you exactly how many apples are there. Think of a number as a label that describes quantity, not just a symbol; it helps us understand \"how many.\" For example, when you see the number 5, it means there are five things—like five candies. Think of it like a name for a group of things, so we always know how many we’re talking about.\n\nDoes this make sense?",
+      "type": "feedback",
+      "time": "23:49"
+    },
+    {
+      "role": "user",
+      "content": "Yes, continue.",
+      "type": "message",
+      "time": "23:49"
+    },
+    {
+      "role": "bot",
+      "content": "Now let's test your understanding of **Understanding of what a number is**.\n\n**Scenario:**\nLiam has a basket of apples. He counts the apples and writes down the number \"8\" to show how many apples are inside. Later, he adds 3 more apples to the basket and updates his count to \"11.\"\n\n**Questions:**\n1. Why does Liam write down a number like \"8\" or \"11\" instead of just saying the apples verbally?  \n2. If Liam initially counts 8 apples, what does the number \"8\" tell us about the apples in the basket?  \n3. When Liam adds 3 apples and updates the number to \"11,\" what does this new number tell us about the basket's contents after the addition?\n\n**Think through:**\n- How does understanding what a number represents help Liam communicate how many apples are in the basket?\n- How does recognizing the symbol \"8\" or \"11\" relate to the actual quantity of apples?\n- What would happen if Liam knew the number but didn't understand what it represented? Would the number still tell him how many apples there are?\n\nTake your time — explain your reasoning!",
+      "type": "synthesis_question",
+      "time": "23:49"
+    },
+    {
+      "role": "user",
+      "content": "Writing numbers is more efficient and permanent than saying them verbally. Numbers can be recorded, shared, and referenced later.\n\nThe number \"8\" tells us the exact quantity - there are 8 apples in the basket. It communicates the count precisely.\n\nThe number \"11\" tells us the new total after adding 3 apples (8+3=11). It reflects the updated quantity.\n\nUnderstanding what numbers represent helps Liam communicate quantities precisely. Without understanding, he might write symbols without knowing what they mean.\n\nRecognizing the symbols \"8\" or \"11\" connects to the actual quantity - the symbols represent specific amounts of real objects.\n\nIf Liam knew the number but not what it represented, he could write \"8\" but wouldn't understand it means 8 individual apples. The number would be meaningless to him.",
+      "type": "message",
+      "time": "23:50"
+    },
+    {
+      "role": "bot",
+      "content": "**Excellent!** The student effectively connected the importance of understanding quantities and symbols, explaining how recognizing what numbers represent is crucial for communication. They also integrated the idea that without understanding the meaning behind symbols, the numerical information loses significance. However, they could have explored more nuanced scenarios, such as what happens if the symbols are misunderstood or if the concept of addition is not grasped.\n\n✅ You've mastered **Understanding of what a number is** (Score: 75/100)\n\n💡 Key insight: *The student demonstrated a good grasp of how the meaning of numbers underpins effective communication of quantities.*\n\n---\n\n**Understanding of numbers and their names 2. Recognizing individual objects as separate entities 3. The concept of one-to-one correspondence**\n\nNumbers are words we use to name how many things there are, like calling five apples \"five.\" When we see a group of apples, each apple is a separate object, not just one big pile. One-to-one correspondence means that if you count each apple, you match one number name to each apple, like giving each apple a little sticker with a number on it. For example, if you have three apples, you put one sticker with \"1\" on the first apple, \"2\" on the second, and \"3\" on the third, making sure each apple gets exactly one sticker. Think of it like giving each of your friends a high-five — one high-five per friend, no more, no less.\n\nDoes this make sense?",
+      "type": "feedback",
+      "time": "23:50"
+    }
+  ]
+}
