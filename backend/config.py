@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Config:
-    DAZI_API_KEY: str = os.getenv("DAZI_API_KEY", "")
-    DAZI_BASE_URL: str = os.getenv("DAZI_BASE_URL", "https://api.chatanywhere.tech")
-    LLM_MODEL: str = os.getenv("LLM_MODEL", "gpt-4.1-nano")
+    NVIDIA_API_KEY: str = os.getenv("NVIDIA_API_KEY", "")
+    NVIDIA_BASE_URL: str = os.getenv("NVIDIA_BASE_URL", "https://integrate.api.nvidia.com/v1")
+    LLM_MODEL: str = os.getenv("LLM_MODEL", "z-ai/glm5")
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")
     MEMORY_DIR: str = os.getenv("MEMORY_DIR", os.path.join(os.path.dirname(__file__), "..", "data", "memory"))
     CACHE_DB: str = os.getenv("CACHE_DB", os.path.join(os.path.dirname(__file__), "..", "data", "memory", "cache.db"))

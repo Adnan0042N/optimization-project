@@ -1,28 +1,33 @@
 /**
  * tree.js — Renders the prerequisite tree in the sidebar.
+ * Updated: reads tree from localStorage session instead of /api/tree.
  */
 
-/** Fetch and render the prerequisite tree. */
-async function refreshTree() {
-    try {
-        const res = await fetch(`${API}/api/tree`);
-        const data = await res.json();
+/** Refresh tree from the current session in localStorage. */
+function refreshTreeFromSession() {
+    const session = getCurrentSession();
+    const container = document.getElementById('tree-container');
 
-        const container = document.getElementById('tree-container');
-        if (!data.tree) {
-            container.innerHTML = '<p class="text-gray-600 text-xs italic">Ask me to learn a topic to see the tree here.</p>';
-            return;
-        }
-
-        container.innerHTML = '';
-        renderTreeNode(data.tree, container, data.current_index, data.teaching_order || []);
-    } catch (e) {
-        console.error('Tree fetch error:', e);
+    if (!session.tree) {
+        container.innerHTML = '<p class="text-gray-600 text-xs italic">Ask me to learn a topic to see the tree here.</p>';
+        return;
     }
+
+    const masteredSet = getMasteredConceptIds();
+    const teachingOrder = session.teachingOrder.map(t => typeof t === 'string' ? t : t.topic);
+    const currentIndex = session.currentIndex;
+
+    container.innerHTML = '';
+    renderTreeNode(session.tree, container, currentIndex, teachingOrder, masteredSet);
+}
+
+/** Legacy alias for compatibility. */
+function refreshTree() {
+    refreshTreeFromSession();
 }
 
 /** Recursively render a tree node. */
-function renderTreeNode(node, parent, currentIndex, teachingOrder) {
+function renderTreeNode(node, parent, currentIndex, teachingOrder, masteredSet) {
     const div = document.createElement('div');
     const nodeEl = document.createElement('div');
 
@@ -32,7 +37,7 @@ function renderTreeNode(node, parent, currentIndex, teachingOrder) {
     let statusClass = 'pending';
     let icon = '○';
 
-    if (node.type === 'MASTERED') {
+    if (node.type === 'MASTERED' || masteredSet.has(topicLower)) {
         statusClass = 'mastered';
         icon = '✓';
     } else if (orderIndex !== -1 && orderIndex < currentIndex) {
@@ -58,7 +63,7 @@ function renderTreeNode(node, parent, currentIndex, teachingOrder) {
         const childContainer = document.createElement('div');
         childContainer.className = 'tree-children';
         for (const child of node.children) {
-            renderTreeNode(child, childContainer, currentIndex, teachingOrder);
+            renderTreeNode(child, childContainer, currentIndex, teachingOrder, masteredSet);
         }
         div.appendChild(childContainer);
     }

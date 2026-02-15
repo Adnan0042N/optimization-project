@@ -1,41 +1,56 @@
 /**
  * chat.js — Handles sending messages, rendering bubbles, and markdown formatting.
+ * Updated: messages now optionally save to session via a `persist` flag.
  */
 
 const API = '';
 
-/** Send a message to the backend and get a response. */
+/** Send a message to the backend and get a response.
+ *  Now includes session_context so the backend is stateless.
+ */
 async function sendMessage(message) {
+    const session = getCurrentSession();
+
+    const sessionContext = {
+        tree: session.tree,
+        teaching_order: session.teachingOrder,
+        current_index: session.currentIndex,
+        waiting_for_synthesis: session.waitingForSynthesis,
+        current_question: session.currentQuestion,
+        attempt_count: session.attemptCount,
+        target_topic: session.targetTopic,
+        all_topics: session.allTopics || [],
+        explained_current: session.explainedCurrent,
+    };
+
     const res = await fetch(`${API}/api/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message }),
+        body: JSON.stringify({ message, session_context: sessionContext }),
     });
     return res.json();
 }
 
-/** Start learning a specific topic. */
-async function startLearning(topic) {
-    const res = await fetch(`${API}/api/start-learning`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ topic }),
-    });
-    return res.json();
-}
-
-/** Add a user message bubble to the chat. */
-function addUserMessage(text) {
+/** Add a user message bubble to the chat.
+ *  @param {boolean} persist — if true, also save to session localStorage (default: true)
+ */
+function addUserMessage(text, persist = true) {
     const container = document.getElementById('chat-container');
     const wrapper = document.createElement('div');
     wrapper.className = 'flex justify-end';
     wrapper.innerHTML = `<div class="msg-user text-sm text-white">${escapeHtml(text)}</div>`;
     container.appendChild(wrapper);
     scrollToBottom();
+
+    if (persist) {
+        addMessageToSession('user', text);
+    }
 }
 
-/** Add a bot message bubble with markdown rendering. */
-function addBotMessage(text, type = 'message') {
+/** Add a bot message bubble with markdown rendering.
+ *  @param {boolean} persist — if true, also save to session localStorage (default: true)
+ */
+function addBotMessage(text, type = 'message', persist = true) {
     removeTypingIndicator();
     const container = document.getElementById('chat-container');
     const wrapper = document.createElement('div');
@@ -48,6 +63,11 @@ function addBotMessage(text, type = 'message') {
 
     container.appendChild(wrapper);
     scrollToBottom();
+
+    if (persist) {
+        addMessageToSession('bot', text, type);
+    }
+
     return bubble;
 }
 
@@ -135,8 +155,6 @@ function renderMarkdown(text) {
     if (!html.startsWith('<')) {
         html = `<p>${html}</p>`;
     }
-
-    // Emojis are already unicode — they render fine
 
     return html;
 }

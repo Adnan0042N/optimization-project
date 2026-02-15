@@ -172,3 +172,40 @@
     }
     .sidebar-overlay.show { display: block; }
 }
+
+/* ── Session list items ──────────────────────────────────────── */
+
+.session-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all .2s;
+    color: #9ca3af;
+    position: relative;
+}
+.session-item:hover {
+    background: rgba(255,255,255,.04);
+    color: #e5e7eb;
+}
+.session-item.active {
+    background: rgba(99,102,241,.1);
+    color: #a5b4fc;
+    border-left: 2px solid #6366f1;
+}
+.session-item:hover button {
+    opacity: 1 !important;
+}
+.session-item button {
+    opacity: 0;
+    transition: opacity .2s;
+    color: #6b7280;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+.session-item button:hover {
+    color: #f87171;
+}
