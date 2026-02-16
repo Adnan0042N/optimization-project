@@ -12,4 +12,15 @@ pipeline {
             }
         }
     }
+    post {
+        success {
+            echo 'Build succeeded! Deploying now'
+        }
+        failure {
+            echo 'Build failed! Check logs'
+        }
+        always {
+            echo 'This runs no matter what'
+        }
+    }
 }
