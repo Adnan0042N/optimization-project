@@ -504,4 +504,4 @@ optimization-project/
 
 ## 📄 License
 
-This project is for educational purposes.
+This project is for educational purposes thus roll up your sleeves and send us pull request.
