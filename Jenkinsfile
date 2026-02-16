@@ -12,15 +12,21 @@ pipeline {
             }
         }
     }
+    pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Job-A running'
+            }
+        }
+    }
     post {
         success {
-            echo 'Build succeeded! Deploying now'
+            build job: 'firstPipelne'
         }
-        failure {
-            echo 'Build failed! Check logs'
-        }
-        always {
-            echo 'This runs no matter what'
-        }
+    }
+}
+
     }
 }
